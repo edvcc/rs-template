@@ -16,7 +16,7 @@ cargo install cargo-generate
 #### Example
 
 ```bash
-cargo generate edvcc/cc-rs-template
+cargo generate edvcc/rs-template
 ```
 
 
